@@ -1,0 +1,118 @@
+<html>
+<head>
+<title>Curriculum Vitae</title>
+</head>
+<body>.
+<table>
+<tr>
+<td> <img src="binu.jpg" width="155px" height="155px"> </td>
+<td><h1> Binu Ghalan</h1>
+<p>Address: Imadol,Lalitpur</p>
+<p>Contact no: 9823311709</p>
+<p>Email: binughalan77@gmail.com</p>
+</td>
+</tr>
+</table>
+<hr>
+<h3><u>PERSONAL INFORMATION</u></h3>
+<table>
+<tr>
+<td>Date of Birth</td>		
+<td>: 2000-06-10</td>
+</tr>
+<tr>
+<td>Gender</td>			
+<td>: Female</td>
+</tr>
+<tr>
+<td>Religion</td>			
+<td>: Buddhism</td>
+</tr>
+<tr>
+<td>Marital Status</td>			
+<td>: Unmarried</td>
+</tr>
+<tr>
+<td>Nationality</td>			
+<td>: Nepalese</td>
+</tr>
+<tr>
+<td>Language</td>			
+<td>: Nepali and English</td>
+</tr>
+</table>
+<hr>
+<h3><u>ACADEMIC QUALIFICATION</u></h3>
+<table border="3">
+<tr>
+<th>Name of Degree</th>
+<th>Institution</th>
+<th>Board</th>
+<th>Major Subject</th>
+<th>Passed Year</th>
+<th>GPA</th>
+</tr>
+<tr>
+<td>Bachelor</td>
+<td>Nesfield International College</td>
+<td>TU</td>
+<td>Computer</td>
+<td>2080</td>
+<td>3.5</td>
+</tr>
+<tr>
+<td>+2</td>
+<td>United Academy</td>
+<td>NEB</td>
+<td>Science</td>
+<td>2076</td>
+<td>2.78</td>
+</tr>
+<tr>
+<td>SEE</td>
+<td>Lalitpur Madhyamik Vidhyalaya</td>
+<td>NEB</td>
+<td>English</td>
+<td>2073</td>
+<td>3.45</td>
+</tr>
+</table>
+<hr>
+<h3><u>HOBBIES</u></h3>
+<ol>
+<li>Cooking</li>
+<li>Travel</li>
+<li>Dancing</li>
+<li>Listening Music</li>
+<li>Playing Basketball</li>
+<li>Gaming</li>
+</ol>
+<hr>
+<h3><u>SKILLS</u></h3>
+<ul>
+<li>Computer literate</li>
+<li>Microsoft Office</li>
+<li>Photoshop</li>
+<li>C programming language</li>
+<li>My SQL Database</li>
+<li>HTML</li>
+</ul>
+<hr>
+<h3><u>WORKING EXPERIENCE</u></h3>
+<h4>Web Developer Intern</h4>
+<ul>
+<li>Developed an in-house web app using HTML/CSS</li>
+<li>Worked across the software development life cycle to gather user requirements and build and maintain the code</li>
+<li>Selected as the top performing intern by the technology team</li>
+</ul>
+<hr>
+<h3><u>TRAINING</u></h3>
+CI Diploma from Complete Institute of Computer and Mobile
+<hr>
+<h3><u>REFERENCES</u></h3>
+<ol>
+<li><p>Radhe Shyam Maharjan(Director)<br>Complete Institution of Computer and Mobile<br>Lagankhel, Lalitpur<br>01-5522704</p></li>
+<li><p>Binod Maharjan(CEO)<br>Artificial Info Tech Pvt Ltd<br>Putalisadak, Kathmandu<br>01-2234943</p>
+</ol>
+</body>
+</html>
